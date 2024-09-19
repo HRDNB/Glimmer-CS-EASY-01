@@ -51,7 +51,7 @@ int main()
 
 int main() {
     int code;
-    int i;
+    int i=0;
 	printf("Show me your code,please.");
     scanf("%d",&code);
     while(i!=-1){
